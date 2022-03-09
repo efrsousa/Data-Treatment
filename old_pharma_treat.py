@@ -2,8 +2,7 @@ import pandas as pd
 import numpy as np
 import math
 from IPython.display import display
-
-# .\Clinical Data\Re-Filter.xlsx
+import concurrent.futures as cf
 # Toxic Hepatitis
 # .\Clinical Data\Filtered_Clinical_Data.xlsx
 # Filtered Toxic Hepatitis
@@ -141,7 +140,7 @@ def idOutliers(df: pd.DataFrame,name_col: str="Drug",value_col: str="Dose",max_z
             z_scores[drug]["z_scores"]=f"One entry {_}"
     #print(z_scores)
     return z_scores
-              
+            
 
 
 def treat_df(z_scored):
