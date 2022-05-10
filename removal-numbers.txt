@@ -340,3 +340,96 @@ With stereo entries Filtered Hepatic Steatosis:
 With stereo entries Hepatic Steatosis: 
  Removed metals: 0 	 Removed mixtures: 84 	 Invalids removed: 5 	 Removed duplicates: 79 	 
  
+With stereo entries Filtered Cholestasiss: 
+ Removed metals: 0 	 Removed mixtures: 35 	 Invalids removed: 66 	 Removed duplicates: 120 	 
+ 
+With stereo entries Filtered Cholestasiss: 
+ Removed metals: 0 	 Removed mixtures: 35 	 Invalids removed: 66 	 Removed duplicates: 120 	 
+ 
+With stereo entries Cholestasis: 
+ Removed metals: 0 	 Removed mixtures: 35 	 Invalids removed: 5 	 Removed duplicates: 120 	 
+ 
+With stereo entries Filtered Liver Injury: 
+ Removed metals: 0 	 Removed mixtures: 109 	 Invalids removed: 52 	 Removed duplicates: 247 	 
+ 
+With stereo entries Liver Injury: 
+ Removed metals: 0 	 Removed mixtures: 109 	 Invalids removed: 5 	 Removed duplicates: 247 	 
+ 
+With stereo entries Filtered cholestatic Jaundice: 
+ Removed metals: 0 	 Removed mixtures: 44 	 Invalids removed: 48 	 Removed duplicates: 120 	 
+ 
+With stereo entries Cholestatic Jaundice: 
+ Removed metals: 0 	 Removed mixtures: 44 	 Invalids removed: 5 	 Removed duplicates: 120 	 
+ 
+With stereo entries Filtered Jaundice: 
+ Removed metals: 1 	 Removed mixtures: 215 	 Invalids removed: 204 	 Removed duplicates: 898 	 
+ 
+With stereo entries Jaundice: 
+ Removed metals: 1 	 Removed mixtures: 215 	 Invalids removed: 5 	 Removed duplicates: 898 	 
+ 
+With stereo entries Filtered Hyperbilirubinemia: 
+ Removed metals: 2 	 Removed mixtures: 262 	 Invalids removed: 135 	 Removed duplicates: 549 	 
+ 
+With stereo entries Hyperbilirrubinemia: 
+ Removed metals: 2 	 Removed mixtures: 262 	 Invalids removed: 5 	 Removed duplicates: 549 	 
+ 
+With stereo entries Filtered Hepatotoxicity: 
+ Removed metals: 3 	 Removed mixtures: 183 	 Invalids removed: 112 	 Removed duplicates: 489 	 
+ 
+With stereo entries Filtered Hepatomegaly: 
+ Removed metals: 0 	 Removed mixtures: 59 	 Invalids removed: 127 	 Removed duplicates: 147 	 
+ 
+With stereo entries Hepatomegaly: 
+ Removed metals: 0 	 Removed mixtures: 59 	 Invalids removed: 5 	 Removed duplicates: 147 	 
+ 
+With stereo entries Filtered HepatoCellular injury: 
+ Removed metals: 1 	 Removed mixtures: 46 	 Invalids removed: 41 	 Removed duplicates: 125 	 
+ 
+With stereo entries Hepatocellular injury: 
+ Removed metals: 1 	 Removed mixtures: 46 	 Invalids removed: 5 	 Removed duplicates: 125 	 
+ 
+With stereo entries Filtered HepatoBiliary disorder: 
+ Removed metals: 0 	 Removed mixtures: 85 	 Invalids removed: 110 	 Removed duplicates: 94 	 
+ 
+With stereo entries Filtered Hepatic necrosis: 
+ Removed metals: 0 	 Removed mixtures: 31 	 Invalids removed: 21 	 Removed duplicates: 159 	 
+ 
+With stereo entries Filtered Abnormal Hepatic Fun : 
+ Removed metals: 0 	 Removed mixtures: 160 	 Invalids removed: 113 	 Removed duplicates: 387 	 
+ 
+With stereo entries Filtered Hepatic Failure: 
+ Removed metals: 2 	 Removed mixtures: 234 	 Invalids removed: 106 	 Removed duplicates: 622 	 
+ 
+With stereo entries Filtered Cholelitiasis: 
+ Removed metals: 0 	 Removed mixtures: 168 	 Invalids removed: 216 	 Removed duplicates: 345 	 
+ 
+With stereo entries Filtered Cholecystitis: 
+ Removed metals: 0 	 Removed mixtures: 109 	 Invalids removed: 219 	 Removed duplicates: 200 	 
+ 
+With stereo entries Filtered Autoimune hepatitis: 
+ Removed metals: 0 	 Removed mixtures: 11 	 Invalids removed: 64 	 Removed duplicates: 21 	 
+ 
+With stereo entries Filtered Hepatic Cirrhosis: 
+ Removed metals: 0 	 Removed mixtures: 15 	 Invalids removed: 16 	 Removed duplicates: 32 	 
+ 
+With stereo entries Filtered Hepatitis: 
+ Removed metals: 2 	 Removed mixtures: 215 	 Invalids removed: 382 	 Removed duplicates: 1088 	 
+ 
+With stereo entries Filtered Acute Hepatitis: 
+ Removed metals: 0 	 Removed mixtures: 27 	 Invalids removed: 23 	 Removed duplicates: 30 	 
+ 
+With stereo entries Filtered Cholestatic Hepatitis: 
+ Removed metals: 1 	 Removed mixtures: 16 	 Invalids removed: 27 	 Removed duplicates: 54 	 
+ 
+With stereo entries Filtered Fulminant Hepatitis: 
+ Removed metals: 0 	 Removed mixtures: 20 	 Invalids removed: 10 	 Removed duplicates: 28 	 
+ 
+With stereo entries Filtered Toxic Hepatitis: 
+ Removed metals: 0 	 Removed mixtures: 7 	 Invalids removed: 13 	 Removed duplicates: 47 	 
+ 
+With stereo entries Filtered Hepatic Steatosis: 
+ Removed metals: 0 	 Removed mixtures: 84 	 Invalids removed: 101 	 Removed duplicates: 79 	 
+ 
+With stereo entries Hepatic Steatosis: 
+ Removed metals: 0 	 Removed mixtures: 84 	 Invalids removed: 5 	 Removed duplicates: 79 	 
+ 
